@@ -7,9 +7,6 @@ author: Barry Cumbie, Richie Yoder, CIS-376 class...............
 ### Resources
 
 
-TODO: ADD REPO !!!!! 
-TODO: HARDCODE SCORE TO 4782
-
 - Internet, past projects, and all
 - no LIVE help, chat, email, or otherwise (I'm watching 👀)
 - stuck/confused? Raise your hand & I'll walk over to you
